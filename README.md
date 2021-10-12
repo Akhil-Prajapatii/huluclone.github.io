@@ -1,1 +1,1 @@
-#Responsive hulu landing page using HTML, CSS and javascript
+# Responsive hulu landing page using HTML, CSS and javascript
