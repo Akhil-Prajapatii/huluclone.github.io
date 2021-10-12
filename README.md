@@ -1,1 +1,1 @@
-# huluclone.github.io
+Responsive hulu landing page
